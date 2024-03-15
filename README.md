@@ -1,16 +1,12 @@
-### Hi there 👋
+#¡Hola! Soy Elias Pedrero, un apasionado de la informática:
 
-<!--
-**eliasp4/eliasp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Actualmente estudio un Grado Superior en Desarrollo de Aplicaciones Web.
+- 🤔 Busco ayuda sobre:
+- Diseño y creación de bases de datos 🌐
+- Desarrollo Frontend y Backend 🐙
+- Implementación de soluciones web innovadoras 🔥
+- 🌱 Experiencia en lenguajes como HTML, CSS, JavaScript, Python, entre otros
+- 📫 Como contactar conmigo: Por aqui o por correo podemos hablar!
+- 😄 Pronouns: Elias 
+- ⚡ Fun fact: En mi repositorio encontrarás un conjunto diverso de proyectos que reflejan mis habilidades en diferentes áreas de la informática
 -->
